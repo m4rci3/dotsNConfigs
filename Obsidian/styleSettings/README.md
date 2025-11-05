@@ -2,12 +2,12 @@
 
   <h2>Sorted by community plugin</h2>
   <h5><em>Style-settings</em></h5>
-  <a href="https://github.com/johansan/notebook-navigator">Notebook Navigator</a> + <a href="https://github.com/aaaaalexis/obsidian-baseline">Baseline</a>
-
-</div>
+  <a href="https://github.com/johansan/notebook-navigator">Notebook Navigator</a> + 
+  <a href="https://github.com/aaaaalexis/obsidian-baseline">Baseline</a>
+</div><br>
 
 <div>
-  <p style="text-align:center; font-size:24px;">
+  <p align=center style="font-size:24px;">
   【Preview】
   <img src="./Images/notebookNavNBaseline.png" height="500" width="850">
 </div>
